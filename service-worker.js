@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tagup-challenge/precache-manifest.9ba61b09e3f922a7bb3534d4ea9bbb1b.js"
+  "/tagup-challenge/precache-manifest.b7f8648467c83f2ca1cf5fb1e63d50a5.js"
 );
 
 workbox.clientsClaim();

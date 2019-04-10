@@ -1,13 +1,13 @@
 {
   "main.css": "/tagup-challenge/static/css/main.5a9ef3a3.chunk.css",
-  "main.js": "/tagup-challenge/static/js/main.6c37e599.chunk.js",
-  "main.js.map": "/tagup-challenge/static/js/main.6c37e599.chunk.js.map",
+  "main.js": "/tagup-challenge/static/js/main.f003ae94.chunk.js",
+  "main.js.map": "/tagup-challenge/static/js/main.f003ae94.chunk.js.map",
   "runtime~main.js": "/tagup-challenge/static/js/runtime~main.e7dde2d0.js",
   "runtime~main.js.map": "/tagup-challenge/static/js/runtime~main.e7dde2d0.js.map",
   "static/js/2.02c03233.chunk.js": "/tagup-challenge/static/js/2.02c03233.chunk.js",
   "static/js/2.02c03233.chunk.js.map": "/tagup-challenge/static/js/2.02c03233.chunk.js.map",
   "index.html": "/tagup-challenge/index.html",
-  "precache-manifest.9ba61b09e3f922a7bb3534d4ea9bbb1b.js": "/tagup-challenge/precache-manifest.9ba61b09e3f922a7bb3534d4ea9bbb1b.js",
+  "precache-manifest.b7f8648467c83f2ca1cf5fb1e63d50a5.js": "/tagup-challenge/precache-manifest.b7f8648467c83f2ca1cf5fb1e63d50a5.js",
   "service-worker.js": "/tagup-challenge/service-worker.js",
   "static/css/main.5a9ef3a3.chunk.css.map": "/tagup-challenge/static/css/main.5a9ef3a3.chunk.css.map"
 }
