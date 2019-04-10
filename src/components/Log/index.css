@@ -1,0 +1,21 @@
+.log {
+    position: relative;
+}
+
+.log-container {
+    display: grid;
+    grid-template-areas:
+    "content delete";
+    grid-template-columns: 1fr 100px;
+    padding: 20px;
+}
+
+.content {
+    grid-area: content;
+}
+
+.delete {
+    grid-area: delete;
+    height: 20px;
+    margin: 40px 20px 0 0;
+}

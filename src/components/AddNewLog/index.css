@@ -1,0 +1,43 @@
+.addNewLog {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    position: relative;
+    background-color: #f9f9f9;
+
+}
+
+.addNewLog input {
+    height: 30px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.addNewLog textarea {
+    height: 120px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.addNewLog button {
+    width: 150px;
+    padding: 10px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.addNewLog button div {
+    margin: 0;
+    margin-left: 5px;
+  
+}
+
+.addNewLog button svg {
+  
+}
+
+.addNewLog * {
+    margin-bottom: 10px;
+}

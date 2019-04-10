@@ -1,0 +1,8 @@
+.confirmModal {
+    display: none;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    background-color: grey;
+    padding: 10px;
+}
